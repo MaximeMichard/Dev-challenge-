@@ -1,0 +1,35 @@
+/*Header */
+
+h3{
+    padding-top: 2rem;
+}
+
+/*Contenu*/
+h1{
+    font-family: 'Space Mono', monospace;
+    font-size: 700;
+    padding-bottom: 5px;
+}
+.text{
+    font-family: 'Space Mono', monospace;
+    font-size: 400;
+}
+img{
+    width: 500px;
+    height: 500px;
+}
+.row{
+    padding-top: 8rem;
+    justify-content: center;
+    align-items: center;
+}
+.btn{
+    padding: 1rem;
+}
+
+/*Footer*/
+
+.footer{
+    padding-top: 8rem;
+    text-align: center;
+}
