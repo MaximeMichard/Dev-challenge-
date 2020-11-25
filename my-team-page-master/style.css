@@ -1,0 +1,27 @@
+body{
+    margin: 0
+}
+/* Header */
+
+header{
+    display: flex;
+    justify-content: space-between;
+    padding: 5rem 0;
+}
+
+/* Main */
+img{
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+}
+.row{
+    padding: 3rem 0;
+}
+
+/* Footer */
+
+footer{
+    padding: 5rem 0;
+    text-align: center;
+}
