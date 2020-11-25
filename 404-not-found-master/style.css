@@ -33,3 +33,14 @@ img{
     padding-top: 8rem;
     text-align: center;
 }
+
+/*Media*/
+
+@media (max-width : 425px){
+    img{
+        padding: 100px
+    }
+    .aside{
+        padding: 50px
+    }
+}
