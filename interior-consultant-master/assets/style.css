@@ -42,7 +42,11 @@ li{
 .name{
     display: flex;
 }
-main p{
+.info{
+    display: flex;
+    flex-direction: column;
+}
+.contenu{
     padding: 5rem 0;
 }
 .btn{
