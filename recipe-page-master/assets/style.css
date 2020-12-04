@@ -1,0 +1,29 @@
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+}
+
+/* Header */
+header{
+    display: flex;
+    flex-direction: column;
+    text-align: justify;
+    
+}
+img{
+    padding: 2rem 0;
+    height: 470px;
+    width: 968px;
+}
+/* Main */
+main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: justify;
+}
+/* Section */
